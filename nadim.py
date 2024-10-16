@@ -450,7 +450,7 @@ def main():
     ask=input(f"\033[1;31m[\033[1;32m?\033[1;31m] INPUT \033[1;32m:\033[1;33m ")
     lin()
     if ask in["1"]:
-        newrin="100000"
+        newrin="10000"
         for i in range(int(limit)):
             data=str(random.choice(range(1000000000,1999999999)))
             user.append(data)
@@ -458,7 +458,7 @@ def main():
         os.system('clear')
         print(logo)
         print(f'\x1b[38;5;196m[\x1b[38;5;46m=\x1b[38;5;196m]\x1b[38;5;46m TOTAL ID : {limit} \x1b[38;5;196m')
-        print(f'\x1b[38;5;196m[\x1b[38;5;46m+\x1b[38;5;196m]\x1b[38;5;46m TURN \x1b[38;5;196m[\x1b[38;5;46mON\x1b[38;5;196m/\x1b[38;5;46mOFF\x1b[38;5;196m]\x1b[38;5;46m AIRPLANE MODE EVERY 3 MIN TAK ON OFF >NADEEM')
+        print(f'\x1b[38;5;196m[\x1b[38;5;46m+\x1b[38;5;196m]\x1b[38;5;46m TURN \x1b[38;5;196m[\x1b[38;5;46mON\x1b[38;5;196m/\x1b[38;5;46mOFF\x1b[38;5;196m]\x1b[38;5;46m AIRPLANE MODE EVERY 3 MIN TAK ON OFF NADEEM')
         lin()
         for chin in user:
             uid=newrin+chin
