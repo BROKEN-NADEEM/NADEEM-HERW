@@ -408,7 +408,7 @@ def amul():
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0",
   "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36",
   "Mozilla/5.0 (Windows IoT 10.0; Android 6.0.1; WebView/3.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Mobile Safari/537.36 Edge/17.17134",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36",
+  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 GROri/537.36",
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0",
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
@@ -432,7 +432,7 @@ logo = (f"""
 \033[1;31m[\033[1;32m≈\033[1;31m]\033[1;37m BHAI        :  CRIIIC
 \033[1;31m[\033[1;32m≈\033[1;31m]\033[1;39m BHAI        :  \033[1;34mWASU HERE\033[1;32m
 \033[1;93m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-\033[1;31m[\033[1;32m≈\033[1;31m]\033[1;32m FB GROUP:\033[1;91m\033[1;41m\033[1;33mTERMUX FREE CAMAND WORL 2024 [-BROKEN NADEEM-] ❣️🌺\033[;0m\033[1;91m\033[1;92m\033[38;5;46m
+\033[1;31m[\033[1;32m≈\033[1;31m]\033[1;32m NO GANG:\033[1;91m\033[1;41m\033[1;33mTERMUX FREE CAMAND WORL 2024 [-BROKEN NADEEM-] \033[;0m\033[1;91m\033[1;92m\033[38;5;46m
 \033[1;93m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[1;31m""")
 #----------------------------[MAIN/DEF]-----------------------------------#
 def main():
@@ -445,7 +445,7 @@ def main():
     lin()
     os.system('clear')
     print(logo)
-    print(f'\033[1;31m[\033[1;32m1\033[1;31m] \033[1;32mBhai 1 DALO IDHAR😀')
+    print(f'\033[1;31m[\033[1;32m1\033[1;31m] \033[1;32mBhai 1 DALO IDHAR')
     lin()
     ask=input(f"\033[1;31m[\033[1;32m?\033[1;31m] INPUT \033[1;32m:\033[1;33m ")
     lin()
